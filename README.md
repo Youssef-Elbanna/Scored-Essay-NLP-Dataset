@@ -87,7 +87,7 @@ A comprehensive research paper is included in LaTeX format, covering:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-
+This project is based on an original implementation by yunsuxiaozi on Kaggle. I did not write the original code from scratch.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
